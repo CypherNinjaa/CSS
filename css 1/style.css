@@ -1,0 +1,13 @@
+ h1{
+            color: red;
+            background-color: black;
+        }
+p{
+    color: blueviolet;
+    background-color: gold;
+}
+button{
+    color: gold;
+    background-color: rgb(0, 0, 0);
+
+}
